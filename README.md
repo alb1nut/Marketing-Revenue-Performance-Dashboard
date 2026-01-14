@@ -4,6 +4,8 @@ This project delivers an end-to-end **Business Intelligence solution** designed 
 
 The dashboard integrates data from **advertising campaigns, website sessions, and paid bookings** to provide stakeholders with a clear view of how marketing spend translates into website engagement, calls, and revenue.
 
+<img width="1329" height="767" alt="image" src="https://github.com/user-attachments/assets/36812ad3-4769-42cc-91eb-21d47d4f49dc" />
+
 ---
 
 ## Business Objective
